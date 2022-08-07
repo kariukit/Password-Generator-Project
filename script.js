@@ -60,3 +60,5 @@ form.addEventListener("submit", (e) => {
     );
     resultDOM.innerText = password;
 });
+
+alert("Welcome to the password generator app. \n In order to get started, please select your desired password combination below. \n \uD83D\uDE00")
