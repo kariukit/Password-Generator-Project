@@ -36,10 +36,12 @@ The acceptance criteria was as follows:
 15. THEN the password is either displayed in an alert or written to the page
 
 
-The mock-up webpage was to look as the one in the image below:
 
 
 The mock-up webpage was to look as the one in the image below:
+
+
+
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/108309963/183271714-c5ecac72-12e2-40af-abd7-cd3b0d0cb377.png)
 
@@ -47,4 +49,6 @@ The mock-up webpage was to look as the one in the image below:
 
 
 
-You can view the webpage that i created in this challenge using this link: https://kariukit.github.io/password-Generator/
+
+
+# You can view the webpage that i created in this challenge using this link: https://kariukit.github.io/password-Generator/
