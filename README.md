@@ -37,3 +37,14 @@ The acceptance criteria was as follows:
 
 
 The mock-up webpage was to look as the one in the image below:
+
+
+The mock-up webpage was to look as the one in the image below:
+
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/108309963/183271714-c5ecac72-12e2-40af-abd7-cd3b0d0cb377.png)
+
+# Image showing how the final webpage is to look like
+
+
+
+You can view the webpage that i created in this challenge using this link: https://kariukit.github.io/password-Generator/
